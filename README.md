@@ -1,9 +1,5 @@
 # :rocket: WallStreetBets Stock Research Posts Classifier :rocket:
 
-Project presentation: https://youtu.be/spDbteQAlbE  <br>
-Project website: https://wsbrecommender.web.app/
-
-***
 # **I. Abstract**
 
 One of the most popular platforms for stocks and financial discussion is a subreddit called WallStreetBets. We would like to help further democratize stock trading by making the access to insightful stock research easier. Most people already know about the mainstream news outlets, this is why we choose this subreddit, where insightful yet unpopularized research information lay in a sea of memes. We will use the posts on r/WallStreetBets as our dataset and aim to classify them as either valuable or less valuable in order to help any user quickly filter out posts he or she may want to read. This project aims to be particularly useful towards those, such as ourselves, who are interested in trading and investing in the stock market, but have little time to do their own research.
